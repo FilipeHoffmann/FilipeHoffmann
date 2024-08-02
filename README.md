@@ -7,6 +7,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FilipeHoffmann&repo=converter-csv-to-xml" /></a></td>
-    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FilipeHoffmann&repo=gestao-impressoras" /></a></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FilipeHoffmann&repo=Gestao-Impressoras-API" /></a></td>
   </tr>
 </table>
